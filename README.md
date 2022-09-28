@@ -6,9 +6,7 @@
 <br/>
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Anuragvishwakarma900
-/Anuragvishwakarma900
-/blob/main/code.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Anuragvishwakarma900/Anuragvishwakarma900/blob/main/code.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Python Programming 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
@@ -22,12 +20,9 @@
 <br/>
 
 <p align="center">
- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Anuragvishwakarma900
-&style=flat&color=red"> •   
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Anuragvishwakarma900
-?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Anuragvishwakarma900
-label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+ <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Anuragvishwakarma900&style=flat&color=red"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Anuragvishwakarma900?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Anuragvishwakarma900label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 #
